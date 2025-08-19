@@ -1,0 +1,8 @@
+vào Thonny
+
+
+C:\Users\MSI\Downloads\New folder>pip install opencv-python mediapipe pyautogui
+
+
+
+rồi run code thoii
